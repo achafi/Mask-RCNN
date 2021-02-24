@@ -2,11 +2,6 @@
 Vehicule detection modele
 
 ![](téléchargement.png)
-![](téléchargement (1).png)
-
-
-
-
 
 
 clone MASK rcnn repo
